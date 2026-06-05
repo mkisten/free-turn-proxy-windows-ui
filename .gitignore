@@ -12,6 +12,7 @@ dist-fixed2/
 dist-fixed3/
 dist-fixed4/
 dist-fixed5/
+release-assets/
 
 .venv/
 venv/
